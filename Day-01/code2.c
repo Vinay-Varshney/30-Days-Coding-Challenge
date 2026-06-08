@@ -1,3 +1,5 @@
+/* C Program to print multiplication table of a given number */
+
 #include <stdio.h>
 int main(){
     int n;

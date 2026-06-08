@@ -1,3 +1,5 @@
+/* C Program to count digits in a number */
+
 #include <stdio.h>
 int main() {
     long long n;
